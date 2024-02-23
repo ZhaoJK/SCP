@@ -53,8 +53,8 @@ Imports:
     simplifyEnrichment (>= 1.5.2),
     slingshot,
     Signac,
-    Seurat (< 5.0.0),
-    SeuratObject ( (< 5.0.0)),
+    Seurat (<= 4.4.0),
+    SeuratObject (<=4.1.4),
     uwot
 Suggests:
     AUCell,
