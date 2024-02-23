@@ -54,7 +54,7 @@ Imports:
     slingshot,
     Signac,
     Seurat (<= 4.4.0),
-    SeuratObject (<=4.1.4),
+    SeuratObject (<= 4.1.4),
     uwot
 Suggests:
     AUCell,
